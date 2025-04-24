@@ -46,7 +46,7 @@ The dataset consists of multiple `.csv` files:
 ## 📸 Presentation
 
 A PowerPoint presentation summarizing the key findings is available here:  
-📎 [Pizza Sales Analysis Presentation] (Pizza_sales_analysis_presentation.pptx)
+📎 [Pizza Sales Analysis Presentation] (https://github.com/Abhishek052003/pizza-sales-sql-analysis/blob/main/Pizza_sales_analysis_presentation.pdf)
 
 ---
 
